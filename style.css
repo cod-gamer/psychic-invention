@@ -34,7 +34,7 @@
 #cssmenu > ul > li {
   float: left;
 }
-#cssmenu.align-center > ul {
+#cssmenu.align-left > ul {
   font-size: 0;
   text-align: center;
 }
